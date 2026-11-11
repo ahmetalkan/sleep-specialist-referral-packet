@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sleep-specialist-referral-packet.onrender.com/sitemap.xml
